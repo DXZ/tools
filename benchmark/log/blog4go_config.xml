@@ -1,0 +1,8 @@
+<blog4go minlevel="debug">
+    <filter levels="info" colored="false">
+        <file path="blog4go_output.log"></file>
+    </filter>
+    <!-- <filter levels="error" colored="false">
+        <file path="blog4go_error.log"></file>
+    </filter> -->
+</blog4go>

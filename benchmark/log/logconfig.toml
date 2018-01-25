@@ -1,0 +1,9 @@
+WriterTarget = "file"
+FileSuffix = "day" #切割方式，day表示每天，hour表示每小时
+WithResponse = true
+AccessPath = "./warning.log"
+ResponsePath  = "./response.log"
+ErrorPath  = "./warning.log"
+DebugPath  = "./warning.log"
+WarningPath  = "./warning.log"
+SystemPath  = "./sys.log"
