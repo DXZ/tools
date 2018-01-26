@@ -9,6 +9,8 @@ var (
 	MaxQueue  = 100
 )
 
+// type
+
 type Job struct {
 	Payload Payload
 }
